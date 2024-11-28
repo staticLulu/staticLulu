@@ -6,7 +6,7 @@
 **I’m a Frontend Developer with a passion for building efficient, responsive, and scalable web applications.**
 
 ## **🪴 Skills:**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,typescript,mongodb,firebase,sass,git,tailwindcss,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,typescript,bootstrap,mongodb,firebase,sass,git,tailwindcss,npm)](https://skillicons.dev)
 
 
 ## **🌱 Improving skills:**
