@@ -8,7 +8,7 @@
 ## **🪴 Skills:**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,typescript,bootstrap,sass,git,tailwindcss,npm,yarn,)](https://skillicons.dev)
 
-## **🌱 Knowleges:**
+## **🌾 Knowleges:**
 [![My knowledges](https://skillicons.dev/icons?i=js,html,css,react,next,typescript,bootstrap,mongodb,firebase,sass,git,tailwindcss,npm,vuejs,c,cpp,cs,java)](https://skillicons.dev)
 
 ## **🌱 Will improving:**
